@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/869413421/wechatbot/config"
+	"github.com/JoeJoeLam/wechatbot/config"
 	"io/ioutil"
 	"log"
 	"net/http"
